@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileVault</string>
+    <string name="title_activity_more_options">FileVault - More Options</string>
+    <string name="title_activity_mount_vault">mountVault</string>
+</resources>
